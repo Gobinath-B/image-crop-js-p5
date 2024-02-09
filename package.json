@@ -20,6 +20,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/image-crop-p5wrapper.git"
+    "url": "https://github.com/Gobinath-B/image-crop-js-p5.git"
   }
 }
