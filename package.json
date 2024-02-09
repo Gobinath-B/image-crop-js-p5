@@ -1,6 +1,6 @@
 {
-  "name": "image-crop-p5wrapper",
-  "version": "1.0.1",
+  "name": "react-image-crop-p5wrapper",
+  "version": "1.0.2",
   "description": "Image Cropper",
   "main": "index.js",
   "scripts": {
