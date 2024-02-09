@@ -1,0 +1,25 @@
+{
+  "name": "image-crop-p5wrapper",
+  "version": "1.0.0",
+  "description": "Image Cropper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "image",
+    "crop",
+    "p5",
+    "react",
+    "component"
+  ],
+  "author": "Gobinath B",
+  "license": "ISC",
+  "dependencies": {
+    "@p5-wrapper/react": "^4.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/image-crop-p5wrapper.git"
+  }
+}
